@@ -1,6 +1,6 @@
 curr = (100,50,10,5,1)
 
-n = 576
+n = int(input())
 
 count = 0
 i = 0
